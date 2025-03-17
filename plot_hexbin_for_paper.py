@@ -3,11 +3,11 @@ import io
 from PIL import Image
 import matplotlib.pyplot as plt
 import pandas as pd
-import random
 import os
 from matplotlib.patches import Arc
+import matplotlib.gridspec as gridspec
 
-def create_polar_hexbin(vector, phase, period=1, image_size=224):
+def create_polar_hexbin(phase, flux, r_min=0.2, r_max=1., image_size=224):
     """
     Generates a polar hexbin plot from a vector and phase.
 
@@ -23,28 +23,37 @@ def create_polar_hexbin(vector, phase, period=1, image_size=224):
     # Calculate angle based on phase (in degrees)
     angle = phase * 360 - 90  # Subtract 90 to start from vertical line
 
+    flux_min, flux_max = flux.min(), flux.max()
+    r = r_max - (r_max - r_min) * (flux_max - flux) / (flux_max - flux_min)
+
     # Calculate x and y coordinates in radial coordinates
-    x = vector * np.cos(np.deg2rad(angle))
-    y = vector * np.sin(np.deg2rad(angle))
+    x = r * np.cos(np.deg2rad(angle))
+    y = r * np.sin(np.deg2rad(angle))
 
     # Create a figure and axes with the desired image size
     fig, ax = plt.subplots(figsize=(image_size / 100, image_size / 100), dpi=100)
 
     # Create the hexbin plot
-    hb = ax.hexbin(x, y, gridsize=25, cmap="gray_r", extent=[-1, 1, -1, 1])  # Extent for radial coordinates
+    hb = ax.hexbin(x, y, gridsize=30, cmap="viridis", mincnt=1)  # Extent for radial coordinates
 
-    # Remove axes, margins, and grid
-    ax.set_axis_off()
+    ax.set_xlim(-1.1, 1.1)
+    ax.set_ylim(-1.1, 1.1)
+    ax.set_aspect('equal')
+
+    plt.xticks([])
+    plt.yticks([])
     ax.grid(False)
     fig.tight_layout(pad=0)
+    ax.set_axis_off()
 
     # Save the figure as a NumPy array with specified size
     buf = io.BytesIO()
-    fig.savefig(buf, format='png', dpi=100, bbox_inches='tight', pad_inches=0)
+    fig.savefig(buf, format='png', dpi=100, bbox_inches='tight', pad_inches=0.1)
     buf.seek(0)
     image = Image.open(buf).resize((image_size, image_size), Image.LANCZOS)
     image_array = np.array(image)
     plt.close(fig)
+    del fig
 
     return image_array
 
@@ -93,8 +102,6 @@ def choose_and_plot_light_curves(dataset_dir, filters={}, num_curves=5, save_plo
 
         image_size = 224
 
-        import matplotlib.gridspec as gridspec
-
         # Create a figure with a specific gridspec layout
         fig = plt.figure(figsize=(10, 5))
 
@@ -112,7 +119,7 @@ def choose_and_plot_light_curves(dataset_dir, filters={}, num_curves=5, save_plo
 
         # Polar hexbin plot
         ax2 = fig.add_subplot(gs[1])
-        image_array = create_polar_hexbin(vector, phase)
+        image_array = create_polar_hexbin(phase, vector)
         ax2.imshow(image_array)
         ax2.set_title("Polar Hexbin Plot")
 

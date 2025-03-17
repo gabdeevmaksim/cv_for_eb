@@ -76,7 +76,7 @@ def create_sample(input_csv, output_dir, sample_size=5000, random_state=69):
 
 
 # Directory to search for files
-base_dir = '/Users/wera/Max_astro/Slovakia/elisa_on_a_server/ML-EclipsingBinaries'
+base_dir = '/Users/wera/Max_astro/Slovakia/elisa_on_a_server/ML-EclipsingBinaries/Syntetic LC'  
 
 # Find all files that have 'gaia' or 'I' in the name
 file_paths = glob.glob(f"{base_dir}/**/*gaia*.csv", recursive=True) + glob.glob(f"{base_dir}/**/*I*.csv", recursive=True)
@@ -84,9 +84,9 @@ file_paths = glob.glob(f"{base_dir}/**/*gaia*.csv", recursive=True) + glob.glob(
 # Process each file based on the conditions
 for file_path in file_paths:
     if 'detached' in file_path:
-        sample_size = 1375
+        sample_size = 1000
     elif 'overcontact' in file_path:
-        sample_size = 2750
+        sample_size = 2000
     else:
         continue  # Skip files that do not match the conditions
 

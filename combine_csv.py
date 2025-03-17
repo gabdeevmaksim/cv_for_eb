@@ -45,10 +45,10 @@ def append_files(input_dir, output_dir, combinations):
             print(f"Combined I dataset for {combination} created successfully at {output_file}")
 
 # Directory to search for files
-input_dir = '/Users/wera/Max_astro/Slovakia/elisa_on_a_server/ML-EclipsingBinaries'
+input_dir = '/Users/wera/Max_astro/Slovakia/elisa_on_a_server/ML-EclipsingBinaries/test_sample/'
 
 # Output directory
-output_dir = '/Users/wera/Max_astro/Slovakia/elisa_on_a_server/ML-EclipsingBinaries/combined_datasets'
+output_dir = '/Users/wera/Max_astro/Slovakia/elisa_on_a_server/ML-EclipsingBinaries/test_sample/combined_datasets'
 
 # Combinations to search for
 combinations = ['detached_spots', 'detached_nospots', 'overcontact_spots', 'overcontact_nospots']
