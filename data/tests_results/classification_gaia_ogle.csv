@@ -1,0 +1,201 @@
+Name, Gaia, orig_ogle_class, binary_I_Res, spot_I_Res, binary_I_ViT, spot_I_ViT, binary_gaia_Res, spot_Gaia_Res, binary_gaia_ViT, spot_Gaia_ViT
+OGLE-BLG-ECL-002011,6028823779367951744, det, det,s, det,s, det,n, det,n
+OGLE-BLG-ECL-004840,4107331719835398656, det, det,n, det,s, det,s, det,s
+OGLE-BLG-ECL-005098,4059230147580348160, det, det,s, det,s, det,s, det,s
+OGLE-BLG-ECL-005728,4107530701320089728,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-010040,4109951241823489408, det, det,n,over,n, det,n,over,n
+OGLE-BLG-ECL-013826,4109963783045363712,over, det,s,over,n,over,s,over,s
+OGLE-BLG-ECL-021136,4057945303840483200,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-023808,4058828246085066112,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-027167,4054845913684988672,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-028315,4117483274428305920,over,over,s,over,n,over,s,over,n
+OGLE-BLG-ECL-028615,4117532511897886976, det,over,n, det,n,over,n,over,n
+OGLE-BLG-ECL-036162,4116605275713680128, det, det,s, det,s, det,n, det,n
+OGLE-BLG-ECL-038040,4061384610645080448, det,over,s,over,n, det,n, det,n
+OGLE-BLG-ECL-039701,4061318807386450560, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-041348,4061762632099777280,over,over,n,over,n,over,s,over,s
+OGLE-BLG-ECL-043401,4116811850753357952, det, det,s, det,n, det,n, det,n
+OGLE-BLG-ECL-043668,4117997639748901760,over,over,s,over,n,over,s,over,s
+OGLE-BLG-ECL-045277,4116822605354866176, det, det,s, det,s, det,n, det,n
+OGLE-BLG-ECL-046884,4117980184998147840,over,over,s,over,n,over,s,over,s
+OGLE-BLG-ECL-048716,4056993259891871744, det, det,n, det,n, det,n, det,n
+OGLE-BLG-ECL-049100,4060008709196655744, det,over,s,over,n,over,s,over,s
+OGLE-BLG-ECL-050432,4068252396409416704, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-050460,4116722790259060096, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-051366,4116753366157730816, det, det,s, det,s, det,s, det,s
+OGLE-BLG-ECL-051643,4118018869684117376, det, det,n, det,n, det,n, det,n
+OGLE-BLG-ECL-056646,5962677778233248512,over,over,n,over,n,over,s,over,s
+OGLE-BLG-ECL-057466,4117217295664937856,over,over,n,over,n,over,n,over,n
+OGLE-BLG-ECL-062045,4061853517904781952, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-063543,4118133429322145920,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-064181,4117365145619154816,over,over,n,over,n,over,n,over,n
+OGLE-BLG-ECL-065338,4116498318147675904, det, det,s, det,s, det,n, det,n
+OGLE-BLG-ECL-065386,4060653568462241024, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-066770,4053497813718952320,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-069448,4061893512675942528, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-069663,4040954035298404480, det, det,s, det,n, det,n, det,n
+OGLE-BLG-ECL-071545,4061868911089856000, det, det,s, det,s, det,n, det,n
+OGLE-BLG-ECL-072490,4061110106328912640,over,over,s,over,n,over,s,over,s
+OGLE-BLG-ECL-073681,4053820898339749504,over,over,s,over,n,over,s,over,s
+OGLE-BLG-ECL-079187,4041290795036877568, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-080053,4116975300051365760, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-080553,4040975711958150144, det, det,s,over,n, det,n, det,n
+OGLE-BLG-ECL-082252,4116970867643543808, det, det,s, det,n, det,s, det,s
+OGLE-BLG-ECL-082335,4040112835827735296,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-083285,4041789384910239488,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-086415,4040088131217503616, det, det,s, det,s, det,n, det,n
+OGLE-BLG-ECL-086521,4061043620211692800,over,over,s,over,n,over,s,over,s
+OGLE-BLG-ECL-088363,4119707242871323904,over,over,s,over,n,over,s,over,s
+OGLE-BLG-ECL-089749,4041786945452023680, det, det,n,over,n, det,s, det,s
+OGLE-BLG-ECL-095192,4068052010408573440,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-096143,4040995709337570432, det, det,n, det,n, det,n, det,n
+OGLE-BLG-ECL-097942,4040014498396912384,over,over,s, det,n,over,n,over,n
+OGLE-BLG-ECL-098524,4119823344423474816,over,over,s, det,s,over,n,over,n
+OGLE-BLG-ECL-099128,4118881337775458432, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-100682,4041012167662324992,over,over,s,over,n,over,s,over,s
+OGLE-BLG-ECL-101014,4040133043742358016, det, det,s, det,s, det,s, det,s
+OGLE-BLG-ECL-101465,4040239966929886720, det, det,n, det,n, det,s, det,s
+OGLE-BLG-ECL-102670,4060817296952717056, det, det,n, det,n, det,n, det,n
+OGLE-BLG-ECL-103082,4119065604751411328,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-104455,4068952720965185152,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-104674,4056825897913104768, det,over,s,over,n, det,s, det,s
+OGLE-BLG-ECL-106393,4068082315702941568, det, det,s, det,s, det,s, det,s
+OGLE-BLG-ECL-109097,4067191711276065152,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-109661,4117058381862322048, det,over,s, det,n, det,s, det,s
+OGLE-BLG-ECL-111618,4056045519565924096,over,over,s,over,n,over,s,over,s
+OGLE-BLG-ECL-112510,4067079324964776320, det, det,s, det,s, det,s, det,s
+OGLE-BLG-ECL-112725,4118996404214040960, det, det,n, det,n, det,n, det,n
+OGLE-BLG-ECL-112738,4119094570001834624, det, det,s, det,s, det,n, det,n
+OGLE-BLG-ECL-113871,4066772320604717184, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-114042,4068975153618448768, det, det,s, det,s, det,n, det,n
+OGLE-BLG-ECL-117245,4118572027088304896, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-119124,4118974310903078272, det, det,s, det,s, det,n, det,n
+OGLE-BLG-ECL-120675,4039851152113058944,over,over,n, det,n,over,n, det,s
+OGLE-BLG-ECL-120806,4068984396303789056, det, det,n, det,s, det,s, det,s
+OGLE-BLG-ECL-122849,4068669076992389248,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-129066,4119006437272399232,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-130518,4055760196296807680, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-130661,4119029737485058688, det, det,n, det,n, det,s, det,s
+OGLE-BLG-ECL-131409,4068907125523790592,over,over,n,over,n,over,n,over,n
+OGLE-BLG-ECL-132661,4041462177393281536,over,over,n,over,n,over,n,over,n
+OGLE-BLG-ECL-140272,4068580948513456896, det, det,s, det,n, det,n, det,n
+OGLE-BLG-ECL-143360,4070424893986706944, det, det,n, det,s, det,s, det,n
+OGLE-BLG-ECL-150293,4039991344173312896, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-150669,4068636950595611392, det, det,n, det,n, det,n, det,n
+OGLE-BLG-ECL-156223,4040818310135827968,over,over,s,over,n,over,s,over,s
+OGLE-BLG-ECL-161437,4040638887790834688,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-162007,4070461319578743040, det, det,n, det,n, det,n, det,n
+OGLE-BLG-ECL-162319,4041609378599028352, det, det,n, det,n, det,n, det,s
+OGLE-BLG-ECL-163113,4040798316932084096, det, det,n, det,s, det,n, det,s
+OGLE-BLG-ECL-165663,4070460391867424128, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-170689,4043662025208176512,over,over,s,over,n,over,s,over,s
+OGLE-BLG-ECL-173294,4119131408031259136, det, det,s, det,s, det,n, det,n
+OGLE-BLG-ECL-173386,4043634537455292416, det,over,n,over,n, det,n, det,n
+OGLE-BLG-ECL-177850,4037289844100126336, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-183722,4042357493194344448, det, det,n, det,n, det,n, det,n
+OGLE-BLG-ECL-185389,4040782099128809600, det,over,s,over,n, det,n, det,n
+OGLE-BLG-ECL-187065,4042337976855828608,over,over,n,over,n,over,n,over,n
+OGLE-BLG-ECL-189014,4056300670651004672, det, det,s, det,n, det,n, det,n
+OGLE-BLG-ECL-190815,4056268823537276032, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-192843,4062551978370482944, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-194096,4037280085925809408,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-196841,4056326169965070336, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-198795,4040457571397421440,over,over,n,over,n,over,n,over,n
+OGLE-BLG-ECL-199033,4044081699241465216, det,over,s,over,n, det,n,over,n
+OGLE-BLG-ECL-202736,4040465130547161344,over, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-204645,4063626892784047360, det, det,s, det,s, det,n, det,n
+OGLE-BLG-ECL-206693,4044057372538758912, det, det,s, det,n, det,s, det,s
+OGLE-BLG-ECL-208736,4040459736064121600,over,over,n,over,n,over,s,over,s
+OGLE-BLG-ECL-214336,4043263589630486016, det,over,s,over,n, det,s, det,n
+OGLE-BLG-ECL-220007,4063556489633059584, det,over,n,over,n,over,n,over,n
+OGLE-BLG-ECL-221042,4044068328911988096,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-223303,4043747099780795264, det, det,n, det,n, det,s, det,s
+OGLE-BLG-ECL-224503,4042085016173152512, det, det,s, det,s, det,s, det,n
+OGLE-BLG-ECL-231219,4043752292358969600, det, det,s, det,s, det,s, det,s
+OGLE-BLG-ECL-235430,4037242599418043648,over,over,n,over,n,over,n,over,n
+OGLE-BLG-ECL-235540,4062808787448595840, det, det,s, det,s, det,s, det,s
+OGLE-BLG-ECL-237802,4062251987824198144, det, det,s, det,s, det,n, det,n
+OGLE-BLG-ECL-238683,4042094705665307136, det, det,n, det,n, det,n, det,n
+OGLE-BLG-ECL-239533,4062253637093240320, det, det,n, det,n, det,s, det,s
+OGLE-BLG-ECL-239975,4042436932837081216, det, det,n, det,n, det,n, det,n
+OGLE-BLG-ECL-241864,4042407246065879552, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-242688,4062788717148383872, det, det,s, det,s, det,s, det,s
+OGLE-BLG-ECL-246493,4064425344324674944,over,over,n,over,n,over,s,over,s
+OGLE-BLG-ECL-251085,4042443392522404608, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-255332,4064147855141271936, det, det,n, det,n, det,s, det,s
+OGLE-BLG-ECL-255840,4043719405927637632, det, det,n, det,n, det,n, det,n
+OGLE-BLG-ECL-256949,4044142133793266816, det, det,n, det,n, det,n, det,n
+OGLE-BLG-ECL-258930,4063219695556887296,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-260752,4063988254107280256,over,over,s,over,n,over,s,over,s
+OGLE-BLG-ECL-261519,4050223498348015360, det,over,s,over,n, det,s, det,n
+OGLE-BLG-ECL-265984,4050164915020188160, det, det,n, det,n, det,s, det,s
+OGLE-BLG-ECL-269124,4064084701874560896,over,over,n,over,n,over,s,over,s
+OGLE-BLG-ECL-269819,4043817678913784064, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-274265,4039121145061265792, det, det,n, det,n, det,s, det,s
+OGLE-BLG-ECL-280206,4042189027381748736, det, det,n, det,n, det,n, det,n
+OGLE-BLG-ECL-284002,4038699791590069888,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-288632,4049991604264832256, det, det,n, det,n, det,s, det,s
+OGLE-BLG-ECL-291329,4038734671147338752,over,over,n,over,n,over,n,over,n
+OGLE-BLG-ECL-293472,4039112761400402560, det, det,s,over,n, det,s, det,s
+OGLE-BLG-ECL-294064,4038682787872992896,over,over,n,over,n,over,s,over,s
+OGLE-BLG-ECL-295404,4050316686040620416, det, det,s, det,s, det,n, det,n
+OGLE-BLG-ECL-296973,4043858257906357120, det, det,s, det,s, det,s, det,s
+OGLE-BLG-ECL-302712,4063352014913303808, det, det,n,over,n, det,n, det,n
+OGLE-BLG-ECL-304146,4042677790491481984, det, det,s, det,s, det,n, det,n
+OGLE-BLG-ECL-305833,4042604913420915328, det, det,n, det,n, det,n, det,n
+OGLE-BLG-ECL-306328,4043026923964971904, det, det,n, det,n, det,s, det,s
+OGLE-BLG-ECL-311987,4039551848793535360, det, det,n, det,n, det,s, det,s
+OGLE-BLG-ECL-314411,4069608854469668992,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-317592,4050349633015255168, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-324475,4049048571177755520, det, det,n, det,n, det,n, det,n
+OGLE-BLG-ECL-326362,4050108534725526528,over, det,s,over,n, det,n, det,s
+OGLE-BLG-ECL-326934,4050708451524484480,over,over,n,over,n,over,s,over,s
+OGLE-BLG-ECL-335600,4042724214661860224, det, det,s, det,n, det,s, det,s
+OGLE-BLG-ECL-336635,4064575526547211520, det,over,n,over,n, det,n, det,n
+OGLE-BLG-ECL-337458,4064575251669352704, det, det,n, det,s, det,s, det,s
+OGLE-BLG-ECL-337993,4064822268076917248, det, det,s, det,n, det,n, det,n
+OGLE-BLG-ECL-339760,4042754378306957952,over,over,n,over,n,over,n,over,n
+OGLE-BLG-ECL-341501,4039486771360548096,over,over,n,over,n,over,n,over,n
+OGLE-BLG-ECL-343383,4039688871021834368, det,over,s,over,n, det,s, det,s
+OGLE-BLG-ECL-350987,4050538340749405696, det, det,n, det,s, det,s, det,s
+OGLE-BLG-ECL-353221,4049264380346575360,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-353643,4039285041033880704, det, det,n, det,s, det,s, det,s
+OGLE-BLG-ECL-356647,4066619763379101312,over,over,s,over,n,over,s,over,s
+OGLE-BLG-ECL-357609,4039605209359252480,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-358137,4066724904215512064,over,over,n,over,n,over,n,over,n
+OGLE-BLG-ECL-358869,4066247853612031872, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-360528,4048978404304161920,over,over,n,over,n,over,n,over,n
+OGLE-BLG-ECL-361580,4050858706569599872, det, det,s, det,n, det,s, det,s
+OGLE-BLG-ECL-362743,4039658432640586752,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-364383,4052419227152609920, det,over,s,over,n,over,s,over,s
+OGLE-BLG-ECL-364980,4050912621360540800,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-365040,4049004418955103488, det, det,n, det,n, det,s, det,s
+OGLE-BLG-ECL-366490,4064986473285240576, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-371180,4050702202349185920,over,over,n,over,n,over,n,over,n
+OGLE-BLG-ECL-375304,4045655031572286720,over,over,n,over,n,over,n,over,n
+OGLE-BLG-ECL-377364,4066331072864609920,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-377466,4052209937830355584,over,over,n,over,n,over,s,over,s
+OGLE-BLG-ECL-379141,4066388037048006784, det, det,n, det,s, det,n, det,n
+OGLE-BLG-ECL-379699,4065457613984390912, det,over,n,over,n, det,n, over,n
+OGLE-BLG-ECL-383222,4052458809588203776,over,over,n,over,n,over,s,over,s
+OGLE-BLG-ECL-389188,4090480432732783872, det, det,s, det,n, det,n, det,n
+OGLE-BLG-ECL-391265,4049331798580101376, det, det,s, det,s, det,s, det,s
+OGLE-BLG-ECL-391545,4052442763582621440, det, det,n, det,s, det,s, det,s
+OGLE-BLG-ECL-392260,4045862839379725312,over,over,s,over,n,over,s,over,s
+OGLE-BLG-ECL-396346,4065542340829483904, det,over,n,over,n, det,s, det,s
+OGLE-BLG-ECL-397581,4052350645140566272,over,over,n,over,n,over,n,over,n
+OGLE-BLG-ECL-400211,4065294061686918016,over,over,s,over,n,over,n,over,n
+OGLE-BLG-ECL-402103,4090457068116617984,over,over,n,over,n,over,n,over,n
+OGLE-BLG-ECL-402854,4052156439661736064, det,over,n,over,n, det,n,over,n
+OGLE-BLG-ECL-409198,4052254845931989376,over,over,n,over,n,over,n,over,n
+OGLE-BLG-ECL-409510,4049474013432398720,over,over,s,over,n,over,s,over,s
+OGLE-BLG-ECL-409773,4053068866757756416, det, det,s, det,s, det,n, det,s
+OGLE-BLG-ECL-410562,4052288346793175936, det, det,s,over,n, det,n, det,n
+OGLE-BLG-ECL-413085,4049556133290310144, det, det,n, det,s, det,s, det,s
+OGLE-BLG-ECL-416716,4089767743048702720,over,over,n,over,n,over,n,over,n
+OGLE-BLG-ECL-417449,4049479133038336000, det, det,n, det,n, det,s, det,s
+OGLE-BLG-ECL-422345,4077534271756000512,over,over,s,over,n,over,s,over,n
+OGLE-BLG-ECL-423344,4077598142189779968, det, det,s,over,n, det,n, det,n
+OGLE-BLG-ECL-423802,6737370851975039616, det, det,n, det,s, det,s, det,s
+OGLE-BLG-ECL-424301,6761527298547259648, det, det,s, det,s, det,n, det,n
+OGLE-BLG-ECL-424419,6761473285024520704,over,over,s,over,n,over,s,over,n
