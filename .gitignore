@@ -71,3 +71,4 @@ yarn-error.log
 *.png
 01/
 Gaia_EB_Parameters/gaia_eb.dat
+data/lc
